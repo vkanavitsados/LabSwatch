@@ -3,7 +3,7 @@
 **Effective Date:** 2026-05-17
 **App Name:** LabSwatch
 **Developer:** VK_Automata
-**Contact:** Vkanavitsados@gmail.com
+**Contact:** vkanavitsados@gmail.com
 
 LabSwatch is a privacy-first, local-first utility for designers and developers. We do not require an account, we do not sync your data to the cloud, and we do not collect personal information for our own use.
 

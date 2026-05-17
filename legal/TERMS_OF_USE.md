@@ -3,7 +3,7 @@
 **Effective Date:** 2026-05-17
 **App Name:** LabSwatch
 **Developer:** VK_Automata
-**Contact:** Vkanavitsados@gmail.com
+**Contact:** vkanavitsados@gmail.com
 
 By using LabSwatch, you agree to the following terms:
 

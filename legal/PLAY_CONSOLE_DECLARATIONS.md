@@ -2,7 +2,7 @@
 
 ## App Info
 - **Developer Name:** VK_Automata
-- **Developer Contact Email:** Vkanavitsados@gmail.com
+- **Developer Contact Email:** vkanavitsados@gmail.com
 - **Category:** Tools / Design / Productivity
 - **Target Audience:** General / Everyone
 - **App Access:** All features available. Premium features are locked behind an in-app purchase but no login is required.

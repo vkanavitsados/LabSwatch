@@ -1,17 +1,23 @@
-LabSwatch is a privacy-first, local-first utility designed for graphic designers, developers, and color enthusiasts.
+LabSwatch is a designer-first color utility for capturing, converting, saving, and exporting color palettes from real images.
 
-Core Features:
-- Pick colors directly from your existing photos or use the live camera.
-- Convert colors between HEX, RGB, HSL, and XYZ instantly.
-- Save and organize local color palettes directly on your device.
-- Export palettes as JSON, CSS, or Flutter code to drop right into your workflow.
+Pick a color from a photo or camera capture, inspect its values instantly, and keep your palette library local on your device. LabSwatch is built for designers, developers, illustrators, and anyone who needs reliable color handoff without a heavy workflow.
 
-Premium Features:
-- Advanced color conversions: LAB and LCH values.
-- Basic CxF Custom Palette Export for advanced workflows.
-- Palette Maker: Generate complementary, analogous, monochromatic, and other harmonies from a base color.
-- A completely ad-free experience.
+Core features:
+- Pick colors from imported images or camera captures
+- Convert colors between HEX, RGB, HSL, XYZ, LAB, and LCH
+- Save and organize local palettes
+- Copy color values quickly
+- Export palettes as JSON, CSS, Flutter Dart, or basic CxF
+- Generate harmony palettes from a base color
 
-Privacy & Safety:
-LabSwatch runs entirely on your device. We don't require an account, we don't sync your palettes to the cloud, and we don't ask for unnecessary permissions. We strictly respect your privacy.
-(Note: LabSwatch uses standard sRGB/D65 calculations and does not include proprietary licensed color libraries or provide spectrophotometer accuracy for print production.)
+Premium unlock:
+- Remove ads
+- Unlock LAB and LCH cards
+- Unlock Palette Maker harmonies
+- Unlock basic CxF export
+
+Privacy-first by design:
+LabSwatch does not require an account and does not sync your palettes to a cloud service. Imported images, captures, and saved palettes stay local unless you explicitly share or export them.
+
+Color note:
+LabSwatch uses standard app-calculated sRGB/D65 conversions. It does not include proprietary color libraries and is not a replacement for calibrated spectrophotometer workflows in print production.
