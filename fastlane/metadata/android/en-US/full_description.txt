@@ -1,0 +1,17 @@
+LabSwatch is a privacy-first, local-first utility designed for graphic designers, developers, and color enthusiasts.
+
+Core Features:
+- Pick colors directly from your existing photos or use the live camera.
+- Convert colors between HEX, RGB, HSL, and XYZ instantly.
+- Save and organize local color palettes directly on your device.
+- Export palettes as JSON, CSS, or Flutter code to drop right into your workflow.
+
+Premium Features:
+- Advanced color conversions: LAB and LCH values.
+- Basic CxF Custom Palette Export for advanced workflows.
+- Palette Maker: Generate complementary, analogous, monochromatic, and other harmonies from a base color.
+- A completely ad-free experience.
+
+Privacy & Safety:
+LabSwatch runs entirely on your device. We don't require an account, we don't sync your palettes to the cloud, and we don't ask for unnecessary permissions. We strictly respect your privacy.
+(Note: LabSwatch uses standard sRGB/D65 calculations and does not include proprietary licensed color libraries or provide spectrophotometer accuracy for print production.)
