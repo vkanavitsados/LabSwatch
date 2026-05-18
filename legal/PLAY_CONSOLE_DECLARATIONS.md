@@ -3,13 +3,13 @@
 ## App Info
 - **Developer Name:** VK_Automata
 - **Developer Contact Email:** vkanavitsados@gmail.com
-- **Category:** Tools / Design / Productivity
+- **Category:** Tools
 - **Target Audience:** General / Everyone
 - **App Access:** All features available. Premium features are locked behind an in-app purchase but no login is required.
 
 ## Monetization
 - **Contains Ads:** Yes (for free users).
-- **In-App Purchases:** Yes (One-time Premium to remove ads and unlock pro features such as LAB/LCH controls, Delta E comparison, and CxF export).
+- **In-App Purchases:** Yes (One-time Premium, planned price EUR 1.50, to remove ads and unlock pro features such as LAB/LCH controls, Delta E comparison, and CxF export).
 
 ## Data Safety
 - Ensure the Play Console Data Safety form is filled out using the `DATA_SAFETY_WORKSHEET.md` reference.
