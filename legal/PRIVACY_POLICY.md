@@ -21,8 +21,11 @@ All palettes created within LabSwatch are stored locally on your device. We do n
 ## Sharing
 The app allows you to share your palettes and exported files. This feature uses the native Android share sheet, meaning data is only shared with the apps you explicitly choose (e.g., Gmail, Messenger) at the moment of sharing.
 
+## Color Tools
+LabSwatch includes free contrast checking and palette harmony generation based on app-calculated sRGB values. Premium unlocks advanced color formats and exports such as LAB/LCH, Delta E comparison, and CxF export.
+
 ## Third-Party Libraries
-We do not use or include any proprietary color libraries (such as Pantone or X-Rite) within LabSwatch. Color values are app-calculated based on standard sRGB/D65 assumptions.
+We do not use or include any proprietary color libraries (such as Pantone or X-Rite) within LabSwatch. Color values are app-calculated from sRGB input. LAB/LCH and Delta E values use D65 by default, with an optional experimental D50 reference-white mode where shown.
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted within the app.

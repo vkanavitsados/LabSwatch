@@ -9,5 +9,6 @@
 
 ## Premium Version
 - Purchasing Premium permanently removes all advertisements from the app.
-- It unlocks advanced features including LAB conversion, LCH conversion, Palette Maker (Harmonies), and Basic CxF export.
+- It unlocks advanced features including LAB/LCH controls, Delta E comparison, and CxF export.
+- Palette harmonies and contrast checking are available in the free version; premium-only color formats remain locked until purchase.
 - Premium status is verified and stored locally based on the Google Play Billing entitlement.

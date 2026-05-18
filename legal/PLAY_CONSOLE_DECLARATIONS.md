@@ -9,7 +9,7 @@
 
 ## Monetization
 - **Contains Ads:** Yes (for free users).
-- **In-App Purchases:** Yes (One-time Premium to remove ads and unlock pro features).
+- **In-App Purchases:** Yes (One-time Premium to remove ads and unlock pro features such as LAB/LCH controls, Delta E comparison, and CxF export).
 
 ## Data Safety
 - Ensure the Play Console Data Safety form is filled out using the `DATA_SAFETY_WORKSHEET.md` reference.
